@@ -5,7 +5,7 @@ Release:       9.0%{?dist}
 Summary:       Maven XML Plugin
 
 License:       ASL 2.0
-Url:           http://mojo.codehaus.org/xml-maven-plugin/
+Url:           https://mojo.codehaus.org/xml-maven-plugin/
 Source0:       http://repo2.maven.org/maven2/org/codehaus/mojo/xml-maven-plugin/1.0/xml-maven-plugin-1.0-source-release.zip
 
 BuildRequires: mojo-parent
